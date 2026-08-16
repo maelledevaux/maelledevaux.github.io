@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://maelledevaux.github.io//sitemap.xml
+Sitemap: https://maelledevaux.github.io/sitemap.xml
