@@ -6,7 +6,7 @@ permalink: /
 subtitle: >
   <h3>/<a href='https://ipa-reader.com/?text=ma%C9%9Bl%20d%C9%99vo&voice=Celine'>maɛl dəvo</a>/</h3>
   <h5>Doctorante à l'<a href='https://www.ipcms.fr/en/home/'>Institut de Physique et Chimie des Matériaux de Strasbourg (IPCMS)</a></h5>
-  
+
 profile:
   align: right
   image: prof_pic.jpg

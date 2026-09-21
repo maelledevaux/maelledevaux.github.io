@@ -18,13 +18,14 @@ toc:
   - name: Goal of the channel
   - name: Projects
     subsections:
-        - name: PowerPoint
-        - name: My PhD
-
+      - name: PowerPoint
+      - name: My PhD
 ---
 
 ## Goal of the channel
+
 This YouTube channel project is important to me because it allows me to reach, through a dynamic video format, a wide audience of researchers who want to learn more about my research.
+
 <aside>
   <a href="https://www.youtube.com/@maelledevaux">{% include figure.liquid loading="eager" path="assets/img/ytb_logo.png" class="img-fluid rounded z-depth-0" %}</a>
   <p>
@@ -33,9 +34,11 @@ This YouTube channel project is important to me because it allows me to reach, t
 </aside>
 
 ## Projects
+
 This channel features two types of videos: PowerPoint tutorials on creating compelling scientific visuals, and a glimpse into my daily life as a PhD student. All videos are in English only.
 
 ### PowerPoint
+
 This series of videos demonstrates various techniques for creating striking visuals. I rely mainly on Microsoft PowerPoint, which has the advantage of being accessible and extremely powerful when used effectively.
 It is important to me to show that it is possible to create beautiful visualisations without resorting to generative AI, and that research work involves not only creating knowledge, but also knowing how to present it in a clear and engaging way.
 

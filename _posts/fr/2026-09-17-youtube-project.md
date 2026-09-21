@@ -18,13 +18,14 @@ toc:
   - name: Objectif de la chaîne
   - name: Projets
     subsections:
-        - name: PowerPoint
-        - name: Mon doctorat
-
+      - name: PowerPoint
+      - name: Mon doctorat
 ---
 
 ## Objectif de la chaîne
-Ce projet de chaîne YouTube m'est important, car il me permet de m'adresser, sur un support vidéo dynamique, à un large public de chercheurs et chercheuses qui souhaitent en savoir plus sur mon activité de recherche. 
+
+Ce projet de chaîne YouTube m'est important, car il me permet de m'adresser, sur un support vidéo dynamique, à un large public de chercheurs et chercheuses qui souhaitent en savoir plus sur mon activité de recherche.
+
 <aside>
   <a href="https://www.youtube.com/@maelledevaux">{% include figure.liquid loading="eager" path="assets/img/ytb_logo.png" class="img-fluid rounded z-depth-0" %}</a>
   <p>
@@ -33,9 +34,11 @@ Ce projet de chaîne YouTube m'est important, car il me permet de m'adresser, su
 </aside>
 
 ## Projets
+
 Cette chaîne propose deux types de vidéos : des tutoriels PowerPoint pour créer des figures scientifiques percutantes, et un regard sur mon quotidien de doctorante. Toutes les vidéos sont exclusivement en anglais.
 
 ### PowerPoint
+
 Cette série de vidéos présente diverses techniques permettant de réaliser des figures percutantes. Je me repose principalement sur l'outil Microsoft PowerPoint, qui a l'avantage d'être accessible et extrêmement puissant lorsque l'on sait bien l'utiliser.
 Il m'importe de montrer qu'il est possible de créer de belles figures sans recourir à l'IA générative, et que le travail de recherche consiste non seulement à créer de la connaissance, mais aussi à savoir la présenter de manière lisible et agréable.
 
