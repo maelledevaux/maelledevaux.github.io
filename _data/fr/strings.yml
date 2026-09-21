@@ -1,0 +1,164 @@
+archive:
+  prefix: un fichier de
+  category_suffix: de cette catégorie
+  tag_suffix: avec cette étiquette
+  year_suffix: de cette année
+bibliography:
+  abstract: Résumé
+  awarded: Récompensé
+  blog: Blog
+  book_prefix: Dans
+  code: Code
+  last_author_prefix: et
+  poster: Affiche
+  slides: Diapositives
+  supp: Suppl
+  video: Vidéo
+  website: Site web
+blog:
+  navigation_title: blog
+  author: Auteur
+  published: Publié
+categories:
+  fun: loisir
+  work: travail
+citation:
+  bibtex: "ou sous forme de citation BibTeX :"
+  introduction: "Si vous avez trouvé cela utile, merci de citer comme suit :"
+collections:
+  books: livres
+  posts: articles
+contact_note: Vous avez une question ? Envoyez-moi un e-mail !
+cv:
+  address: Adresse
+  area: Domaine
+  awarder: Décerné par
+  awards: Distinctions
+  basics: Informations générales
+  certificates: Certificats
+  city: Ville
+  countryCode: Code du pays
+  courses: Cours
+  date: Date
+  education: Formation
+  email: Email
+  endDate: Date de fin
+  fluency: Maîtrise
+  highlights: Points forts
+  image: Image
+  institution: Institution
+  interests: Centres d'intérêt
+  issuer: Émetteur
+  keywords: Mots-clés
+  label: Titre
+  language: Langue
+  languages: Langues
+  level: Niveau
+  location: Lieu
+  name: Nom
+  network: Réseau
+  organization: Organisation
+  phone: Téléphone
+  position: Poste
+  postalCode: Code postal
+  present: Présent
+  profiles: Profils
+  projects: Projets
+  publications: Publications
+  publisher: Éditeur
+  reference: Référence
+  references: Références
+  region: Région
+  releaseDate: Date de sortie
+  score: Score
+  skills: Compétences
+  startDate: Date de début
+  studyType: Type d'études
+  summary: Résumé
+  table_of_contents: Sommaire
+  title: Titre
+  url: Url
+  username: Nom d'utilisateur
+  volunteer: Bénévolat
+  work: Travail
+footer:
+  copyright: Droits d'auteur
+  last_updated: "Dernière mise à jour :"
+footer_text: > # the ">" symbol means to ignore newlines until "titles:"
+  Créé avec <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> et le thème <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>.
+latest_posts: derniers articles
+months:
+  long:
+    january: Janvier
+    february: Février
+    march: Mars
+    april: Avril
+    may: Mai
+    june: Juin
+    july: Juillet
+    august: Août
+    september: Septembre
+    october: Octobre
+    november: Novembre
+    december: Décembre
+  short:
+    january: jan.
+    february: févr.
+    march: mars
+    april: avr.
+    may: mai
+    june: juin
+    july: juil.
+    august: août
+    september: sept.
+    october: oct.
+    november: nov.
+    december: déc.
+news: actualités
+newsletter:
+  back: Retour
+  error: "Oups ! Une erreur s'est produite, veuillez réessayer."
+  subscribe: s'abonner
+  subscribed: "Vous êtes maintenant abonné(e) à la newsletter."
+  subscribe_to_receive: "Abonnez-vous pour être informé(e) des futurs articles :"
+  too_many_signups: "Trop d'inscriptions, veuillez réessayer bientôt"
+  wait: "Veuillez patienter..."
+no_news: Aucune actualité pour le moment...
+no_posts: "Aucun article pour l'instant..."
+pagination:
+  page: page
+post:
+  created_in: Créé le
+  created_by: par
+  last_updated: dernière mise à jour le
+references: Références
+related_posts:
+  description: "Voici quelques articles connexes qui pourraient vous intéresser :"
+  title: Vous avez aimé lire cet article ?
+search:
+  dark_theme:
+    description: Change le thème du site en sombre
+    title: Passer au thème sombre
+  dropdown: Autres options
+  email: Envoyer un email
+  footer:
+    close: pour fermer
+    navigate: pour naviguer
+    parent: revenir au niveau précédent
+    select: pour sélectionner
+  languages: Langues
+  light_theme:
+    description: Change le thème du site en clair
+    title: Passer au thème clair
+  navigation: Menu de navigation
+  news: Actualités
+  placeholder: Tapez pour lancer la recherche
+  posts: Articles
+  projects: Projets
+  socials: Réseaux sociaux
+  system_theme:
+    description: Change le thème du site selon les préférences du système
+    title: Utiliser le thème du système
+  theme: Thème
+selected_publications: publications sélectionnées
+site_description: Un thème simple pour les universitaires. Basé sur le design de [*folio](https://github.com/bogoli/-folio).
